@@ -1,0 +1,7 @@
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\bin\Debug\SortVectors.exe.config
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\bin\Debug\SortVectors.exe
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\bin\Debug\SortVectors.pdb
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.csprojAssemblyReference.cache
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.csproj.CoreCompileInputs.cache
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.exe
+C:\Users\mattia.senni\Documents\SortVectors\SortVectors\obj\Debug\SortVectors.pdb
