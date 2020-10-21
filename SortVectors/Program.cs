@@ -26,6 +26,8 @@ namespace SortVectors
             Console.ReadKey();
             Console.WriteLine("-----------------------------------------");
             BubbleSort(array);
+            int massimo = Massimo(array);
+            Console.WriteLine("il valore massimo è il: " + massimo);
             ArrayAConsole(array);
             Console.ReadKey();
 
@@ -54,6 +56,11 @@ namespace SortVectors
             {
                 Console.WriteLine(array[i]);
             }
+        }
+
+        public static int Massimo(int[] v)
+        {
+            return v.Max();
         }
     }
 }
