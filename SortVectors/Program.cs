@@ -27,6 +27,8 @@ namespace SortVectors
             Console.WriteLine("-----------------------------------------");
             BubbleSort(array);
             ArrayAConsole(array);
+            Console.WriteLine();
+            Console.WriteLine("Il valore minimo è: " + array[0]);
             Console.ReadKey();
 
         }
