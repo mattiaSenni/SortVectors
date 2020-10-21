@@ -30,6 +30,7 @@ namespace SortVectors
             Console.WriteLine("il valore massimo è il: " + massimo);
             Console.WriteLine();
             Console.WriteLine("Il valore minimo è: " + array[0]);
+            Console.WriteLine();
             ArrayAConsole(array);
             Console.ReadKey();
 
