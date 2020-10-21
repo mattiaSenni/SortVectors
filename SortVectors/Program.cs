@@ -28,6 +28,8 @@ namespace SortVectors
             BubbleSort(array);
             int massimo = Massimo(array);
             Console.WriteLine("il valore massimo è il: " + massimo);
+            Console.WriteLine();
+            Console.WriteLine("Il valore minimo è: " + array[0]);
             ArrayAConsole(array);
             Console.ReadKey();
 
